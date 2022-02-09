@@ -6,6 +6,6 @@
 - Personal website: https://sites.google.com/view/renanchmarques
 - Email: renanchmarques@gmail.com
 
-I'm currently working on my master's thesis, focusing on the impacts of the Venezuelan exodus in Roraima. 
+I'm currently working on my master's thesis, focusing on the impacts of the Venezuelan exodus in Roraima, Brazil. 
 
 Thus, I'll be creating public repositories with data and figures of the migration flow! 
