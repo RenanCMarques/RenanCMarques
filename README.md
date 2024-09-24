@@ -2,8 +2,6 @@
 
 - Ph.D. Student in Public Policy at Duke University
 - Master in Public Adm and Govt | BSc in Economics 
-- Research fields: development economics and political economy.
-- Topics of interest: forced migration and climate change
-- R enthusiast
+- Research fields: development and migration economics
 - Personal website: https://sites.google.com/view/renanchmarques
 - Email: renan.marques@duke.edu | renanchmarques@gmail.com 
